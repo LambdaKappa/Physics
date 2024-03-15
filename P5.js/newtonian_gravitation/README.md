@@ -1,7 +1,7 @@
 # Description #
 Simulation of gravitation based on Newton's gravitational law.
 
-$$ F = \frac{G * m_1 * m_2}{r^2} $$
+$$ F = G\frac{m_1m_2}{r^2} $$
 
 # Instructions #
 
