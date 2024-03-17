@@ -9,8 +9,8 @@ Calculations made in this project are arbitrary and do not reflect the behaviour
 
 # Instructions #
 
-You can either directly paste the content of **charge.js** file into
+You can either directly paste the content of **'charge.js'** file into
 
-p5.js editor (https://editor.p5js.org/) or make 'charge.js' file accessible to
+p5.js editor (https://editor.p5js.org/) or make **'charge.js'** file accessible to
 
 HTML file and open the HTML file.
